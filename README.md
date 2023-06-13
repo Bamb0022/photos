@@ -1,1 +1,1 @@
-# phtos
+# photos
